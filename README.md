@@ -51,7 +51,7 @@ The dashboard includes interactive visualisations such as:
 ## 📷 Dashboard Preview
 
 Example:
-![HR Analytics Dashboard](images/hr-dashboard.png)
+![HR Analytics Dashboard](images/HR-Dashboard.png)
 
 ---
 
