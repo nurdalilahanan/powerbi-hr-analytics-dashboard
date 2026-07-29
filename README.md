@@ -4,7 +4,7 @@
 
 This project is an interactive **HR Analytics Dashboard** developed using **Microsoft Power BI** as part of my Power BI learning journey.
 
-The dashboard was recreated by following a YouTube tutorial to strengthen my understanding of Power BI fundamentals, including data transformation, data modelling, DAX calculations, and dashboard design. The objective was to gain hands-on experience in building an end-to-end HR analytics report.
+The dashboard was recreated by following a YouTube tutorial to strengthen my understanding of Power BI fundamentals, including data transformation, DAX calculations, and dashboard design. The objective was to gain hands-on experience in building an end-to-end HR analytics report.
 
 > **Note**
 > This repository represents a learning project based on a publicly available tutorial. Future updates will include additional enhancements, visual improvements, and custom business insights developed independently.
@@ -101,10 +101,3 @@ This project was created by following the YouTube tutorial below for educational
 https://youtu.be/QcTeeBrL6EY
 
 All credit for the tutorial content belongs to the original creator.
-
----
-
-
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-
-Aspiring Data Analyst | Business Intelligence | Reporting & Dashboard Development
