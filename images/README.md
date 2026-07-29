@@ -1,1 +1,0 @@
-Project exercises images
